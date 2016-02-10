@@ -1,0 +1,84 @@
+
+
+
+.nav a { 
+    color: #5a5a5a;
+    font-size:11px;
+    font-weight:Bold;
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-left:10px;
+    padding-right:10px;
+    text-transform:uppercase;
+}
+
+.jumbotron { 
+    height:500px;
+    background-image:url(http://images.bwbx.io/cms/2014-03-13/feat_gopro12__02__614x365.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+
+
+
+
+
+.jumbotron h1{ 
+    color:#fff;
+    font-size:48px;
+    font-family:'Shift',sans-serif;
+    font-weight:bold;
+}
+    
+.jumbotron p { 
+    color:#fff;
+    font-size:20px;
+}
+
+
+.learn-more { 
+    background-color:#f7f7f7;
+} 
+
+ h3 { 
+    font-family:'Shift',sans-serif;
+    font-size:18px;
+    font-weight:bold;
+    border-bottom:1px solid #dbdbdb;
+} 
+
+
+.learn-more a { 
+    color:#00b0ff;
+}
+
+.nav li { 
+    display: inline;
+}
+
+.jumbotron .container { 
+    position:relative;
+    top:100px;
+}
+
+
+
+
+
+h3 { 
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+
+
+ h2 { 
+    color:#393c3d;
+    font-size: 24px:
+}
+
+ p { 
+  font-size: 15px;
+ margin-bottom: 13px; 
+} 
+
